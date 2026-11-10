@@ -1,13 +1,12 @@
 {
-  "background_color": "#ff0000",
-  "dir": "ltr",
+  "id": "/driver-verses-1/",
+  "name": "Driver Verses 1: Infinity",
+  "short_name": "DV1 Infinity",
+  "description": "Race, explore, drive supercars and discover amazing worlds!",
+  "start_url": "/driver-verses-1/",
+  "scope": "/driver-verses-1/",
   "display": "standalone",
-  "name": "driver-verses-1",
   "orientation": "any",
-  "scope": "/",
-  "short_name": "Dv1 infinty",
-  "start_url": "/",
-  "theme_color": "#0800ff",
-  "description": "Race, explore, drive supercars and discover amazing worlds!/driver-verses-1/",
-  "id": "/driver-verses-1/"
+  "background_color": "#ff0000",
+  "theme_color": "#0800ff"
 }
