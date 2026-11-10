@@ -1,12 +1,9 @@
 {
-  "id": "/driver-verses-1/",
-  "name": "Driver Verses 1: Infinity",
-  "short_name": "DV1 Infinity",
+  "id": "/driver-verses-1/  "name": "Driver Verses 1: Infinity  "short_name": "DV1 Infinity
   "description": "Race, explore, drive supercars and discover amazing worlds!",
-  "start_url": "/driver-verses-1/",
-  "scope": "/driver-verses-1/",
-  "display": "standalone",
-  "orientation": "any",
-  "background_color": "#ff0000",
-  "theme_color": "#0800ff"
+  "start_url": "/driver-verses-1/
+  "scope": "/driver-verses-1/
+  "display": "standalone orientation": "any",
+  "background_color": "#ff0000
+  "theme_color": "#0800ff
 }
